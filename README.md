@@ -69,9 +69,9 @@
   <section>
     <h2>Connect With Me</h2>
     <p>
-      Twitter: <a href="#">@YourHandle</a><br />
-      Telegram: <a href="#">@YourTelegram</a><br />
-      Email: <a href="mailto:your@email.com">your@email.com</a>
+      Twitter: <a href="#">@olu_darae</a><br />
+      Telegram: <a href="#">@bjayOG</a><br />
+      Email: <a href="mailto: aderoamos420@gmail.com">aderoamos420@gmail.com</a>
     </p>
   </section>
 
